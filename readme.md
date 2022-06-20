@@ -3,6 +3,8 @@
 Custom ZOOTR tracker with log & notes system  
 Commands allow for tracking items with shorthand 
 
+<img src = 'img/screencap.png'></img>
+
 ## Tracker available here
 <a href="https://cleartonic.net/zootr_tracker" target="_blank">https://cleartonic.net/zootr_tracker</a>
 
