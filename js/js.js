@@ -996,31 +996,49 @@ $('input').keypress(function (e) {
         else if (first_arg == 'allmed') {
             // allmed deku forest water fire free spirit
             var forest_text = toTitleCase(args[1])
+            if (forest_text == "Dc") {
+                forest_text = "Dodongo"
+            }
             if (dungeon_list.indexOf(forest_text) <= -1) {
                 forest_text = "???"
             }
             $('#forest_medallion_text').text(forest_text)
             var fire_text = toTitleCase(args[2]) 
+            if (fire_text == "Dc") {
+                fire_text = "Dodongo"
+            }
             if (dungeon_list.indexOf(fire_text) <= -1) {
                 fire_text = "???"
             }
             $('#fire_medallion_text').text(fire_text)
             var water_text = toTitleCase(args[3])
+            if (water_text == "D") {
+                water_text = "Dodongo"
+            }
             if (dungeon_list.indexOf(water_text) <= -1) {
                 water_text = "???"
             }
             $('#water_medallion_text').text(water_text)
             var shadow_text = toTitleCase(args[4])
+            if (shadow_text == "Dc") {
+                shadow_text = "Dodongo"
+            }
             if (dungeon_list.indexOf(shadow_text) <= -1) {
                 shadow_text = "???"
             }
             $('#shadow_medallion_text').text(shadow_text)
             var spirit_text = toTitleCase(args[5])
+            if (spirit_text == "Dc") {
+                spirit_text = "Dodongo"
+            }
             if (dungeon_list.indexOf(spirit_text) <= -1) {
                 spirit_text = "???"
             }
             $('#spirit_medallion_text').text(spirit_text)
             var light_text = toTitleCase(args[6])
+            if (light_text == "Dc") {
+                light_text = "Dodongo"
+            }
             if (dungeon_list.indexOf(light_text) <= -1) {
                 light_text = "???"
             }
@@ -1037,7 +1055,9 @@ $('input').keypress(function (e) {
             
             var medallion = args[1]
             var dungeon = toTitleCase(args[2])
-
+            if (dungeon == "Dc") {
+                dungeon = "Dodongo"
+            }
             if (dungeon_list.indexOf(dungeon) <= -1) {
                 set_text = "???"
             }
