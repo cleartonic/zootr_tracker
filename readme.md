@@ -42,12 +42,19 @@ Full examples:
 
 WOTH/Barren can be cleared using `woth clear` or `barren clear`
 
+Full examples:  
+`woth field`: Set Hyrule Field as WOTH  
+`barren colossus`: Set Desert Colossus as Barren  
+`woth clear`: Clear WOTH hints from tracker  
+
 ### ALLMED:
-`allmed [area] [area] [area] [area] [area] [area]`: Set all locations for medallions in order (Forest, Fire, Water, Shadow, Spirit, Light)  
+`allmed [area] [area] [area] [area] [area] [area]`:   
+Set all locations for medallions in order (Forest, Fire, Water, Shadow, Spirit, Light)  
+
 All areas must match aliases: `deku, dc, jabu, forest, fire, water, shadow, spirit, free`  
 
 Example:
-`allmed fire, forest, deku, dc, free, spirit` sets:
+`allmed fire, forest, deku, dc, free, spirit` sets:  
 Forest Medallion -> Fire Temple  
 Fire Medallion -> Forest Temple  
 Water Medallion -> Deku Tree  
