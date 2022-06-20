@@ -4,11 +4,11 @@ Custom ZOOTR tracker with log & notes system
 Commands allow for tracking items with shorthand 
 
 ## Tracker available here
-[https//cleartonic.net/zootr_tracker](https//cleartonic.net/zootr_tracker)
+[https://cleartonic.net/zootr_tracker](https://cleartonic.net/zootr_tracker)
 
 
 ## Shorthand / Aliases
-[Link to aliases](https//pastebin.com/Jva1gTta) - Review this paste for aliases
+[Link to aliases](https://pastebin.com/Jva1gTta) - Review this paste for aliases
 
 ## Commands
 
@@ -40,7 +40,6 @@ Examples:
 `barren [area]` Set area as barren
 
 `[area]` will attempt to match alias for tracker, but can be anything
-
 WOTH/Barren can be cleared using `woth clear` or `barren clear`
 
 Examples:  
@@ -66,7 +65,7 @@ Light Medallion -> Spirit Temple
 ### MED
 `med [medallion] [area]` Set medallion for one location
 
-Example:
+Example:  
 `med water shadow` Set the Water Medallion to Shadow Temple
 
 
