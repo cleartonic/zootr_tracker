@@ -7,6 +7,8 @@ Commands allow for tracking items with shorthand
 [https//cleartonic.net/zootr_tracker](https//cleartonic.net/zootr_tracker)
 
 
+## Shorthand / Aliases
+[Link to aliases](https//pastebin.com/Jva1gTta) - Review this paste for aliases
 
 ## Commands
 
@@ -72,6 +74,3 @@ Example:
 
 `[anything]` Add note to tracker
 
-
-## Shorthand / Aliases
-[Link to aliases](https//pastebin.com/Jva1gTta) - Review this paste for aliases
