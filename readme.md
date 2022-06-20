@@ -36,10 +36,10 @@ Examples:
 `key ganon 2`   
 
 ### WOTH/BARREN 
-`woth [area]`  Set area as WOTH
+`woth [area]`  Set area as WOTH  
 `barren [area]` Set area as barren
 
-`[area]` will attempt to match alias for tracker, but can be anything
+`[area]` will attempt to match alias for tracker, but can be anything  
 WOTH/Barren can be cleared using `woth clear` or `barren clear`
 
 Examples:  
