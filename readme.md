@@ -4,12 +4,10 @@ Custom ZOOTR tracker with log & notes system
 Commands allow for tracking items with shorthand 
 
 ## Tracker available here
-[https://cleartonic.net/zootr_tracker](https://cleartonic.net/zootr_tracker)
-
+<a href="https://cleartonic.net/zootr_tracker" target="_blank">https://cleartonic.net/zootr_tracker</a>
 
 ## Shorthand / Aliases
-[Link to aliases](https://pastebin.com/Jva1gTta) - Review this paste for aliases
-
+<a href="https://pastebin.com/Jva1gTta" target="_blank">Link to aliases</a>
 ## Commands
 
 ### GET
