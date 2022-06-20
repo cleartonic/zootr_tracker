@@ -14,14 +14,13 @@ Commands allow for tracking items with shorthand
 `get [item] [area]`  Track an item. Optional- add a location.  
 
 `[item]` must match aliases. Most are intuitive.  
-Examples: Bow is `bow`. Strength Upgrade is `strength1`, `strength` or `s`  
+Bow is `bow`. Strength Upgrade is `strength1`, `strength` or `s`  
 
 `[area]` can either match aliases for the log, or can be custom  
-Examples:  
-`market` will show Hyrule Market in the log
+`market` will show Hyrule Market in the log  
 `slingshot game` will not be an alias match, and will show "slingshot game" in the log
 
-Full examples:  
+Examples:  
 `get bow` Tracks getting the bow  
 `get bombs dc` Tracks getting the bombs from Dodongo's Cavern  
 `get ms water` Tracks getting the Mirror Shield from Water  
@@ -30,7 +29,7 @@ Full examples:
 
 `key [area] [number]` Manually sets number of keys in dungeon  
 
-Full examples:  
+Examples:  
 `key forest 3`  
 `key ganon 2`   
 
@@ -42,7 +41,7 @@ Full examples:
 
 WOTH/Barren can be cleared using `woth clear` or `barren clear`
 
-Full examples:  
+Examples:  
 `woth field` Set Hyrule Field as WOTH  
 `barren colossus` Set Desert Colossus as Barren  
 `woth clear` Clear WOTH hints from tracker  
@@ -53,7 +52,7 @@ Set all locations for medallions in order (Forest, Fire, Water, Shadow, Spirit, 
 
 All areas must match aliases `deku, dc, jabu, forest, fire, water, shadow, spirit, free`  
 
-Full example:
+Example:  
 `allmed fire, forest, deku, dc, free, spirit` sets  
 Forest Medallion -> Fire Temple  
 Fire Medallion -> Forest Temple  
